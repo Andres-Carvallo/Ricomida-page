@@ -1,0 +1,168 @@
+
+body {
+    margin-right: 0px;
+    
+    
+    font-family: 'Cabin', sans-serif;
+}
+
+
+
+
+.carrusel {
+    margin-top: 5%;
+   margin-left: 1%;
+    
+}
+
+.carousel-indicators {
+    top: 100%;
+    
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+li {
+    list-style: none;
+}
+
+.lista {
+    margin-left: 2%;
+}
+
+.hr1 {
+    margin-right: 68%;
+    
+}
+
+hr {
+    border: 1px solid;
+}
+
+.hr2 {
+    margin-right: 68%;
+    
+}
+
+.hr3 {
+    margin-left: 3%;
+}
+
+
+footer {
+    margin: 0px;
+}
+
+
+
+.Ricomida {
+    font-family: 'Lobster', cursive;
+    font-weight: 700;
+    font-size: 35pt;
+}
+
+.ricomida2 {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 30pt;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    color: #373A3C;
+    font-size: 40pt;
+}
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 20pt;
+    color: #373A3C;
+}
+
+.ingredientes {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+    font-size: 20pt;
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+    font-size: 40pt;
+    font-weight: 700;
+}
+
+h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 23pt;
+    color: #373A3C;
+}
+
+.card-text {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 16pt;
+    color: #373A3C;
+
+}
+
+
+
+.texto-news {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+}
+
+@media (max-width: 767.98px) { .centrado {
+    text-align: center;
+    
+} .ingredientes {
+    font-size: 16pt;
+} .titulo {
+    font-size: 25pt;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+} .titulo2 {
+    font-size: 16pt;
+} .receta {
+    font-size: 25pt;
+    margin-left: 25%;
+    margin-right: 25%;
+} .card-title {
+    font-size: 17pt;
+} .card-text {
+    font-size: 16pt;
+} .news {
+    font-size: 30pt;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.texto-news {
+    font-size: 20pt;
+    
+    
+
+} .ricomida2 {
+    font-size: 20pt;
+} .texto-total {
+    margin-left: 15%;
+    margin-right: 15%;
+    
+} .Ricomida {
+    font-size: 37pt;
+    margin: 0px;
+    
+}
+
+
+
+}
